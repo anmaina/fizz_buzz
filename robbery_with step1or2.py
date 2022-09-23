@@ -12,6 +12,7 @@ def rob(nums: List[int]) -> int:
     return tmp
 
 print(rob([2,4,1,4,2,5])) # 13
+
 # def rob(nums:List[int])->int:
 #     if not nums:
 #                 yield 0
